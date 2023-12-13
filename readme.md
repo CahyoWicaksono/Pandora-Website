@@ -1,4 +1,4 @@
-#Pandora site
+# Pandora site
 Avatar: Frontiers of Pandora is an upcoming open world action-adventure book based on the Avatar film series developed by Massive Entertainment and published by Ubisoft. 
 
 Take control of your data with privacy settings you can customize, and get personalized recommendations from your account checkup.
